@@ -1,4 +1,7 @@
 # lambdas-weapon-pack
+
+troll juice is back :))))))
+
 Install instructions:
 1. Download
 2. Create custom folder in your tf_coop_extended folder (ignore this step if you already have a custom folder)
